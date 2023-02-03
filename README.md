@@ -38,7 +38,7 @@ O Mentalista é um jogo de adivinhação, onde o programa escolhe um número ale
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através de [ DESSE LINK ](https://codepen.io/imersao-dev/pen/JjZpvRQ). É necessário ter conta no [ CodePen ](https://codepen.io/accounts/signup/user/free) para acessá-lo.
+Você pode visualizar o layout base do projeto através de [ DESSE LINK ](https://codepen.io/imersao-dev/pen/JjZpvRQ). É necessário ter conta no [ CodePen ](https://codepen.io/accounts/signup/user/free) para acessá-lo.
 
 ## ✅ Licença
 
