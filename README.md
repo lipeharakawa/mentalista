@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Mentalista é um jogo de adivinhação, onde o programa escolhe um número aleatório onde o usuário deve acertar. Através de um prompt o usuário digita um número e a lógica do jogo usando estrutura de verificação como if e else retorna mensagens em um alert com dicas para ajudar na adivinhação.
+O Mentalista é um jogo de adivinhação, no qual o programa escolhe um número aleatório onde o usuário deve acertar. Através de um prompt o usuário digita um número e a lógica do jogo usando estrutura de verificação como if e else retorna mensagens em um alert com dicas para ajudar na adivinhação.
 
 - [ Visite o projeto online ](https://lipeharakawa.github.io/mentalista-html-css-js)
 
