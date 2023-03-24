@@ -1,4 +1,4 @@
-<h1 align="center"> Mentalista </h1>
+<h1 align="center">Mentalista</h1>
 
 <p align="center">
 Imersão Dev é um evento exclusivo e gratuito, promovido pela Alura para ensino de tecnologias WEB. <br/>
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Mentalista é um jogo de adivinhação, no qual o programa escolhe um número aleatório onde o usuário deve acertar. Através de um prompt o usuário digita um número e a lógica do jogo usando estrutura de verificação como if e else retorna mensagens em um alert com dicas para ajudar na adivinhação.
 
-- [ Visite o projeto online ](https://lipeharakawa.github.io/mentalista-html-css-js)
+- [ Visite o projeto online ](https://lipeharakawa.github.io/mentalista)
 
 ## 🔖 Layout
 

@@ -15,9 +15,11 @@ if(jogar == "s"){
     if (chute == numeroSecreto){
       alert("Acertou! ✅");
     } else if (chute > numeroSecreto){
-         alert("Errou! ❌ O número secreto é menor que " + chute);
+      alert("Errou! ❌ O número secreto é menor que " + chute);
+    } else if (chute == null){
+      break;
     } else if (chute < numeroSecreto){
-         alert("Errou! ❌ O número secreto é maior que " + chute);
+      alert("Errou! ❌ O número secreto é maior que " + chute);
     }
     
     iterador += 1;
